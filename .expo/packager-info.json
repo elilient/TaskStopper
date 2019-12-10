@@ -1,9 +1,9 @@
 {
   "devToolsPort": 19002,
   "expoServerPort": 19000,
-  "packagerPort": null,
-  "packagerPid": null,
+  "packagerPort": 19001,
+  "packagerPid": 5932,
   "expoServerNgrokUrl": "https://hy-vmj.anonymous.taskstopper.exp.direct",
   "packagerNgrokUrl": "https://packager.hy-vmj.anonymous.taskstopper.exp.direct",
-  "ngrokPid": 7880
+  "ngrokPid": 10472
 }
